@@ -12,7 +12,7 @@
 
 | Date | Topic | Finished | Log | Result Link |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 2022-02-26 | Initialize Repo | ✅ | Added README that will be used in the upcoming months as the base for my studies. | [Base README]() |
+| 2022-02-26 | Initialize Repo | ✅ | Added README that will be used in the upcoming months as the base for my studies. | [Base README](https://github.com/Brudus/deliberate_practice) |
 
 ## Upcoming topics
 
