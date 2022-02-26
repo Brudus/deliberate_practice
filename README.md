@@ -8,7 +8,7 @@
 
 ## What is deliberate practice?
 
-## Deliberate practice sessions
+## Session log
 
 | Date | Topic | Finished | Log | Result Link |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
