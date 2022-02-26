@@ -6,6 +6,15 @@
 
 ## Motivation
 
+I'm a big beliver that in order to learn a new programming topic, you have to practice it fully. You can't just read random blog posts each day to strive as an engineer. Growing as developer means over and over forcing you into very focused, deep, deliberate practice. 
+
+This repository will, therefore, act as a reference for me to document my learnings. 
+
+This will serve in two ways:
+
+1. It's a reference for others and me to revisit certain topics when needed.
+1. It's a mixture of deliberate practice and the [Feynman technique](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230).
+
 ## What is deliberate practice?
 
 ## Session log
