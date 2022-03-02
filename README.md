@@ -38,3 +38,6 @@ My goal with this repository is to push myself harder and very deeply understand
 - [ ] Integrating a dynamic height SwiftUI view in `UIScrollView`
 - [ ] Difference between `@ObservedObject`, `@EnvironmentObject`, `@State`, `@StateObject`
 - [ ] How to setup Universal links in iOS
+- [ ] @escaping explained
+- [ ] Closure deep dive
+- [ ] Test expectations
