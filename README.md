@@ -1,8 +1,8 @@
 # Deliberate Practice
 
 **Created:** 2022-02-26</br>
-**Last session:** 2022-02-26</br>
-**Next session:** 2022-03-05
+**Last session:** 2022-03-05</br>
+**Next session:** 2022-03-13
 
 ## Motivation
 
@@ -32,9 +32,11 @@ My goal with this repository is to push myself harder and very deeply understand
 | Date | Topic | Finished | Log | Result Link |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 2022-02-26 | Initialize Repo | ✅ | Added README that will be used in the upcoming months as the base for my studies. | [Base README](https://github.com/Brudus/deliberate_practice) |
+| 2022-03-05 | Dynamic height SwiftUI view in `UIScrollView` | ❌ | Started with the project setup and realized that I should first do a deliberate practice session for dynamic height `UIScrollView` to have that written down. | - |
 
 ## Upcoming topics
 
+- [ ] How to setup a dynamic height `UIScrollView`. 
 - [ ] Integrating a dynamic height SwiftUI view in `UIScrollView`
 - [ ] Difference between `@ObservedObject`, `@EnvironmentObject`, `@State`, `@StateObject`
 - [ ] How to setup Universal links in iOS
