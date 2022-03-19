@@ -34,7 +34,7 @@ My goal with this repository is to push myself harder and very deeply understand
 | 2022-02-26 | Initialize Repo | ✅ | Added README that will be used in the upcoming months as the base for my studies. | [Base README](https://github.com/Brudus/deliberate_practice) |
 | 2022-03-05 | Dynamic height SwiftUI view in `UIScrollView` | ❌ | Started with the project setup and realized that I should first do a deliberate practice session for dynamic height `UIScrollView` to have that written down. | - |
 | 2022-03-13 | - | ❌ | Skipped due to project work | - |
-| 2022-03-19 | Dynamic height of `UIScrollView` content | ✅ | I set up a project with the a `UIStackView` that grows dynamically inside the `UIScrollView` and documented the findings. | [Dynamic UIScrollView content height](https://github.com/Brudus/deliberate_practice/UIKit/DynamicUIScrollView) |
+| 2022-03-19 | Dynamic height of `UIScrollView` content | ✅ | I set up a project with the a `UIStackView` that grows dynamically inside the `UIScrollView` and documented the findings. | [Dynamic UIScrollView content height](https://github.com/Brudus/deliberate_practice/blob/main/UIKit/DynamicUIScrollView/DynamicUIScrollView.md) |
 
 ## Upcoming topics
 
