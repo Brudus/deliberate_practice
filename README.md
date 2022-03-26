@@ -1,8 +1,8 @@
 # Deliberate Practice
 
 **Created:** 2022-02-26</br>
-**Last session:** 2022-03-19</br>
-**Next session:** 2022-03-26
+**Last session:** 2022-03-26</br>
+**Next session:** 2022-04-02
 
 ## Motivation
 
@@ -35,6 +35,7 @@ My goal with this repository is to push myself harder and very deeply understand
 | 2022-03-05 | Dynamic height SwiftUI view in `UIScrollView` | ❌ | Started with the project setup and realized that I should first do a deliberate practice session for dynamic height `UIScrollView` to have that written down. | - |
 | 2022-03-13 | - | ❌ | Skipped due to project work | - |
 | 2022-03-19 | Dynamic height of `UIScrollView` content | ✅ | I set up a project with the a `UIStackView` that grows dynamically inside the `UIScrollView` and documented the findings. | [Dynamic UIScrollView content height](https://github.com/Brudus/deliberate_practice/blob/main/UIKit/DynamicUIScrollView/DynamicUIScrollView.md) |
+| 2022-03-26 | How to test if a method in deinit is called and check for memory leaks | ✅ | I tested for a work project as I wasn't able to figure that out during my working hours. I added the tests later and documented the process | [How to test deinit and memory leak](https://github.com/Brudus/deliberate_practice/blob/main/Tests/Unit%20Tests/DeinitTests.md) |
 
 ## Upcoming topics
 
